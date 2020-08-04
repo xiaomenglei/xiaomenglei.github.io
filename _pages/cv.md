@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
-
+* B.S. in Electrical Engineering, Jilin University, 2020
+  * GPA:3.42
+  * Overall Grade:85.9
 Work experience
 ======
 * Summer 2015: Research Assistant
